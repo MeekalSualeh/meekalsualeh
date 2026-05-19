@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused Full-Stack Engineer specializing in scalable web applications, REST APIs, and real-time systems using Node.js, Next.js, MongoDB, MySQL, Redis, and WebSockets.<br><br>Experienced in building production-ready applications with authentication systems, caching, RBAC, API optimization, SEO systems, and automation workflows. Passionate about backend architecture, performance engineering, and solving complex system design problems.<br><br>Currently exploring FastAPI, distributed systems, Docker, and advanced backend engineering concepts.<br>
+Backend-focused Full-Stack Engineer specializing in scalable web applications, REST APIs, and real-time systems using Node.js, Next.js, MongoDB, MySQL, Redis, and WebSockets.<br><br>Experienced in building production-ready applications with authentication systems, caching, RBAC, API optimization, SEO systems, and automation workflows. Passionate about backend architecture, performance engineering, and solving complex system design problems.<br><br>Currently exploring FastAPI, distributed systems, Docker, and advanced backend engineering concepts.<br><br>Let's connect! Feel free to reach out if you want to chat about Full Stack development, build something together, or just talk tech..<br>
 
 
 ## 🌐 Socials:
